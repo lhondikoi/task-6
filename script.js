@@ -51,6 +51,7 @@ class Person {
 }
 
 // Question 4
+// Reference: https://www.quora.com/How-does-Uber-set-its-prices-Do-prices-change-a-lot
 class Uber {
     constructor(service_type, city, base_fare, pp_min, pp_mile, min_fare, cancellation_fee) {
         // service_type : UberX, Uber Black etc.
